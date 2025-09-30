@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 /6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -36,8 +36,14 @@ jobs:
         with:
           go-version: "1.22"
 
-      - name: Install gtfstidy
-        run: go install github.com/patrickbr/gtfstidy@latest
+      - name: Clone and build gtfstidy
+        run: |
+          git clone https://github.com/patrickbr/gtfstidy.git
+          cd gtfstidy
+          make build
+
+      - name: Add gtfstidy to PATH
+        run: echo "${{ github.workspace }}/gtfstidy" >> $GITHUB_PATH
 
       - name: Run gtfstidy to clean and merge feeds
         run: |
