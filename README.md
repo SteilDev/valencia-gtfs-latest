@@ -1,6 +1,6 @@
 ## License and Data Use
 
-- **Code:** Licensed under [MIT License](LICENSE) (or another OSI-approved license of your choice).  
+- **Code:** Licensed under [MIT License](https://opensource.org/license/mit)
 - **Data:** All GTFS data used in this project comes from the [Spanish NAP](https://nap.transportes.gob.es/), under the [MITRAMS Open Data License](https://nap.transportes.gob.es/licencia-datos).  
 - **Attribution:**  
   Data source: MITRAMS  

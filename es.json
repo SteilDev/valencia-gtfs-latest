@@ -1,0 +1,19 @@
+{
+    "sources": [
+        {
+            "name": "Generalitat_Valenciana",
+            "type": "http",
+            "url": "https://nap.transportes.gob.es/api/Fichero/download/1526"
+        },
+        {
+            "name": "EMT_Ayuntamiento_Valencia",
+            "type": "http",
+            "url": "https://nap.transportes.gob.es/api/Fichero/download/1166"
+        },
+        {
+            "name": "FGV_Generalitat_Valenciana",
+            "type": "http",
+            "url": "https://nap.transportes.gob.es/api/Fichero/download/1168"
+        }
+    ]
+}
