@@ -1,0 +1,17 @@
+{
+  "es_EMT_Ayuntamiento_Valencia.zip": {
+    "prefix": 0,
+    "download_url": "https://nap.transportes.gob.es/api/Fichero/download/1166",
+    "gtfs_rt": null
+  },
+  "es_FGV_Generalitat_Valenciana.zip": {
+    "prefix": 1,
+    "download_url": "https://nap.transportes.gob.es/api/Fichero/download/1168",
+    "gtfs_rt": null
+  },
+  "es_Generalitat_Valenciana.zip": {
+    "prefix": 2,
+    "download_url": "https://nap.transportes.gob.es/api/Fichero/download/1526",
+    "gtfs_rt": null
+  }
+}
