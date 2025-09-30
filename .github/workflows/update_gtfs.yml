@@ -28,7 +28,7 @@ jobs:
 
       - name: Download latest GTFS feeds
         env:
-          NAP_API_KEY: ${{ vars.NAP_API_KEY }}
+          NAP_API_KEY: ${{ secrets.NAP_API_KEY }}
         run: python download_gtfs.py
 
       - name: Set up Go
