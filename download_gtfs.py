@@ -2,9 +2,6 @@
 import requests
 import json
 import os
-from dotenv import load_dotenv
-
-load_dotenv()
 
 OUTPUT_FILE = "es_mapping.json"
 API_KEY = os.getenv('NAP_API_KEY')
