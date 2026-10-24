@@ -1,19 +1,19 @@
 Parsing GTFS feed in 'es_EMT_Ayuntamiento_Valencia.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
-Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -46 services [-25.84%], -4 routes [-8.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Removing service duplicates... done. (-109 services [-82.58%])
+Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -43 services [-24.02%], -3 routes [-6.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
+Removing service duplicates... done. (-112 services [-82.35%])
 Outputting GTFS feed to 'es_EMT_Ayuntamiento_Valencia.zip'... done.
 Parsing GTFS feed in 'es_FGV_Generalitat_Valenciana.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
 Removing service duplicates... done. (-0 services [-0.00%])
 Outputting GTFS feed to 'es_FGV_Generalitat_Valenciana.zip'... done.
 Parsing GTFS feed in 'es_Generalitat_Valenciana.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
-Removing unreferenced entries... done. (-0 trips [-0.00%], -2683 stops [-50.83%], -0 shapes [-0.00%], -0 services [-0.00%], -32 routes [-11.55%], -2 agencies [-4.08%], -0 transfers [-0.00%])
-Removing service duplicates... done. (-719 services [-95.99%])
+Removing unreferenced entries... done. (-0 trips [-0.00%], -2676 stops [-50.66%], -0 shapes [-0.00%], -0 services [-0.00%], -32 routes [-11.39%], -2 agencies [-4.08%], -0 transfers [-0.00%])
+Removing service duplicates... done. (-734 services [-95.95%])
 Outputting GTFS feed to 'es_Generalitat_Valenciana.zip'... done.
 Parsing GTFS feed in 'es_EMT_Ayuntamiento_Valencia.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Parsing GTFS feed in 'es_FGV_Generalitat_Valenciana.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Parsing GTFS feed in 'es_Generalitat_Valenciana.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing redundant agencies... done. (-0 agencies [-0.00%])
-Reclustering stops... done. (-910 clusters) [-23.69%]
-Removing service duplicates... done. (-1 services [-1.61%])
+Reclustering stops... done. (-916 clusters) [-23.69%]
+Removing service duplicates... done. (-1 services [-1.56%])
 Outputting GTFS feed to 'gtfs_valencia_clean.zip'... done.
